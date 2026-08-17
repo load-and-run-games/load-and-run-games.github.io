@@ -1,6 +1,5 @@
 ownerdomain=load-and-run-games.github.io
 google.com, pub-7907497469192670, DIRECT, f08c47fec0942fa0
-google.com, pub-7032266106394419, DIRECT, f08c47fec0942fa0
 ironsrc.com, 624967, DIRECT, 78bf285232d32e49
 google.com, pub-4737436342233455, RESELLER, f08c47fec0942fa0
 inmobi.com, c1e6d3502da64ebaa3ad0e4a4be15f11, RESELLER, 83e75a7ae333ca9d
